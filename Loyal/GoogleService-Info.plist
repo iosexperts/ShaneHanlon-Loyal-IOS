@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>845332821018-8mtdr477k9177asjus4huo7h1iih8er9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.845332821018-8mtdr477k9177asjus4huo7h1iih8er9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBosjR498ok8WKlrddpRearqCg7ovuR8BI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>845332821018</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.loyalfoundry.theloyalapp</string>
+	<key>PROJECT_ID</key>
+	<string>visits-d31c1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>visits-d31c1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:845332821018:ios:5327ecb1eaf7070f0ecda3</string>
+</dict>
+</plist>
